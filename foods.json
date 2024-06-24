@@ -1,0 +1,354 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "price": 10,
+      "image": "https://example.com/images/margherita.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni Pizza",
+      "price": 12,
+      "image": "https://example.com/images/pepperoni.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 3,
+      "name": "Hawaiian Pizza",
+      "price": 11,
+      "image": "https://example.com/images/hawaiian.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 4,
+      "name": "Vegetarian Pizza",
+      "price": 11,
+      "image": "https://example.com/images/vegetarian.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 5,
+      "name": "BBQ Chicken Pizza",
+      "price": 13,
+      "image": "https://example.com/images/bbq_chicken.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 6,
+      "name": "Mushroom Pizza",
+      "price": 11,
+      "image": "https://example.com/images/mushroom.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 7,
+      "name": "Cheese Pizza",
+      "price": 10,
+      "image": "https://example.com/images/cheese.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 8,
+      "name": "Supreme Pizza",
+      "price": 13,
+      "image": "https://example.com/images/supreme.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 9,
+      "name": "Calzone",
+      "price": 12,
+      "image": "https://example.com/images/calzone.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 10,
+      "name": "Meat Lovers Pizza",
+      "price": 13,
+      "image": "https://example.com/images/meat_lovers.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 11,
+      "name": "Garlic Bread",
+      "price": 5,
+      "image": "https://example.com/images/garlic_bread.jpg",
+      "category": "Appetizers"
+    },
+    {
+      "id": 12,
+      "name": "Bruschetta",
+      "price": 6,
+      "image": "https://example.com/images/bruschetta.jpg",
+      "category": "Appetizers"
+    },
+    {
+      "id": 13,
+      "name": "Chicken Wings",
+      "price": 8,
+      "image": "https://example.com/images/chicken_wings.jpg",
+      "category": "Appetizers"
+    },
+    {
+      "id": 14,
+      "name": "Onion Rings",
+      "price": 5,
+      "image": "https://example.com/images/onion_rings.jpg",
+      "category": "Appetizers"
+    },
+    {
+      "id": 15,
+      "name": "French Fries",
+      "price": 4,
+      "image": "https://example.com/images/french_fries.jpg",
+      "category": "Appetizers"
+    },
+    {
+      "id": 16,
+      "name": "Soda",
+      "price": 2,
+      "image": "https://example.com/images/soda.jpg",
+      "category": "Drinks"
+    },
+    {
+      "id": 17,
+      "name": "Iced Tea",
+      "price": 2,
+      "image": "https://example.com/images/iced_tea.jpg",
+      "category": "Drinks"
+    },
+    {
+      "id": 18,
+      "name": "Lemonade",
+      "price": 2,
+      "image": "https://example.com/images/lemonade.jpg",
+      "category": "Drinks"
+    },
+    {
+      "id": 19,
+      "name": "Milkshake",
+      "price": 4,
+      "image": "https://example.com/images/milkshake.jpg",
+      "category": "Drinks"
+    },
+    {
+      "id": 20,
+      "name": "Smoothie",
+      "price": 5,
+      "image": "https://example.com/images/smoothie.jpg",
+      "category": "Drinks"
+    },
+    {
+      "id": 21,
+      "name": "Chocolate Cake",
+      "price": 6,
+      "image": "https://example.com/images/chocolate_cake.jpg",
+      "category": "Desserts"
+    },
+    {
+      "id": 22,
+      "name": "Cheesecake",
+      "price": 7,
+      "image": "https://example.com/images/cheesecake.jpg",
+      "category": "Desserts"
+    },
+    {
+      "id": 23,
+      "name": "Apple Pie",
+      "price": 5,
+      "image": "https://example.com/images/apple_pie.jpg",
+      "category": "Desserts"
+    },
+    {
+      "id": 24,
+      "name": "Ice Cream Sundae",
+      "price": 7,
+      "image": "https://example.com/images/ice_cream_sundae.jpg",
+      "category": "Desserts"
+    },
+    {
+      "id": 25,
+      "name": "Tiramisu",
+      "price": 8,
+      "image": "https://example.com/images/tiramisu.jpg",
+      "category": "Desserts"
+    },
+    {
+      "id": 26,
+      "name": "Margarita",
+      "price": 8,
+      "image": "https://example.com/images/margarita.jpg",
+      "category": "Drinks"
+    },
+    {
+      "id": 27,
+      "name": "Pepsi",
+      "price": 3,
+      "image": "https://example.com/images/pepsi.jpg",
+      "category": "Drinks"
+    },
+    {
+      "id": 28,
+      "name": "Chocolate Brownie",
+      "price": 6,
+      "image": "https://example.com/images/chocolate_brownie.jpg",
+      "category": "Desserts"
+    },
+    {
+      "id": 29,
+      "name": "Ice Cream",
+      "price": 5,
+      "image": "https://example.com/images/ice_cream.jpg",
+      "category": "Desserts"
+    },
+    {
+      "id": 30,
+      "name": "Hot Chocolate",
+      "price": 4,
+      "image": "https://example.com/images/hot_chocolate.jpg",
+      "category": "Drinks"
+    },
+    {
+      "id": 31,
+      "name": "Garlic Chicken Pizza",
+      "price": 13,
+      "image": "https://example.com/images/garlic_chicken.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 32,
+      "name": "BBQ Beef Pizza",
+      "price": 14,
+      "image": "https://example.com/images/bbq_beef.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 33,
+      "name": "Seafood Pizza",
+      "price": 15,
+      "image": "https://example.com/images/seafood.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 34,
+      "name": "Vegan Pizza",
+      "price": 12,
+      "image": "https://example.com/images/vegan.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 35,
+      "name": "Pasta",
+      "price": 10,
+      "image": "https://example.com/images/pasta.jpg",
+      "category": "Main Course"
+    },
+    {
+      "id": 36,
+      "name": "Caesar Salad",
+      "price": 8,
+      "image": "https://example.com/images/caesar_salad.jpg",
+      "category": "Salad"
+    },
+    {
+      "id": 37,
+      "name": "Mojito",
+      "price": 6,
+      "image": "https://example.com/images/mojito.jpg",
+      "category": "Drinks"
+    },
+    {
+      "id": 38,
+      "name": "Shrimp Cocktail",
+      "price": 9,
+      "image": "https://example.com/images/shrimp_cocktail.jpg",
+      "category": "Appetizers"
+    },
+    {
+      "id": 39,
+      "name": "Chicken Caesar Salad",
+      "price": 9,
+      "image": "https://example.com/images/chicken_caesar_salad.jpg",
+      "category": "Salad"
+    },
+    {
+      "id": 40,
+      "name": "Fruit Salad",
+      "price": 7,
+      "image": "https://example.com/images/fruit_salad.jpg",
+      "category": "Salad"
+    },
+    {
+      "id": 41,
+      "name": "Tuna Salad",
+      "price": 8,
+      "image": "https://example.com/images/tuna_salad.jpg",
+      "category": "Salad"
+    },
+    {
+      "id": 42,
+      "name": "Margarita Pizza",
+      "price": 10,
+      "image": "https://example.com/images/margarita_pizza.jpg",
+      "category": "Pizza"
+    },
+    {
+      "id": 43,
+      "name": "Cheeseburger",
+      "price": 11,
+      "image": "https://example.com/images/cheeseburger.jpg",
+      "category": "Main Course"
+    },
+    {
+      "id": 44,
+      "name": "Hot Dog",
+      "price": 6,
+      "image": "https://example.com/images/hot_dog.jpg",
+      "category": "Main Course"
+    },
+    {
+      "id": 45,
+      "name": "Chicken Quesadilla",
+      "price": 9,
+      "image": "https://example.com/images/chicken_quesadilla.jpg",
+      "category": "Main Course"
+    },
+    {
+      "id": 46,
+      "name": "Nachos",
+      "price": 8,
+      "image": "https://example.com/images/nachos.jpg",
+      "category": "Appetizers"
+    },
+    {
+      "id": 47,
+      "name": "Guacamole",
+      "price": 5,
+      "image": "https://example.com/images/guacamole.jpg",
+      "category": "Appetizers"
+    },
+    {
+      "id": 48,
+      "name": "Fish and Chips",
+      "price": 12,
+      "image": "https://example.com/images/fish_and_chips.jpg",
+      "category": "Main Course"
+    },
+    {
+      "id": 49,
+      "name": "Pancakes",
+      "price": 7,
+      "image": "https://example.com/images/pancakes.jpg",
+      "category": "Main Course"
+    },
+    {
+      "id": 50,
+      "name": "Waffles",
+      "price": 8,
+      "image": "https://example.com/images/waffles.jpg",
+      "category": "Main Course"
+    }
+  ]
+}
