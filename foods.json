@@ -7,6 +7,158 @@
             "image": "https://raw.githubusercontent.com/MohamedKhalifa11/foods-api/main/images/Margherita%20Pizza.png",
             "category": "Pizza",
             "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 2,
+            "name": "Pepperoni Pizza",
+            "price": 12,
+            "image": "./images/Pepperoni Pizza.png",
+            "category": "Pizza",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 3,
+            "name": "Hawaiian Pizza",
+            "price": 11,
+            "image": "./images/Hawaiian Pizza.png",
+            "category": "Pizza",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 4,
+            "name": "Vegetarian Pizza",
+            "price": 11,
+            "image": "./images/Vegetarian Pizza.png",
+            "category": "Pizza",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 5,
+            "name": "BBQ Chicken Pizza",
+            "price": 13,
+            "image": "./images/BBQ Chicken Pizza.png",
+            "category": "Pizza",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 6,
+            "name": "Mushroom Pizza",
+            "price": 11,
+            "image": "./images/Mushroom Pizza.png",
+            "category": "Pizza",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 7,
+            "name": "Cheese Pizza",
+            "price": 10,
+            "image": "./images/Cheese Pizza.png",
+            "category": "Pizza",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 8,
+            "name": "Supreme Pizza",
+            "price": 13,
+            "image": "./images/Supreme Pizza.png",
+            "category": "Pizza",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 9,
+            "name": "Calzone",
+            "price": 12,
+            "image": "./images/Calzone.png",
+            "category": "Pizza",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 10,
+            "name": "Meat Lovers Pizza",
+            "price": 13,
+            "image": "./images/Meat Lovers Pizza.png",
+            "category": "Pizza",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 11,
+            "name": "Garlic Bread",
+            "price": 5,
+            "image": "./images/Garlic Bread.png",
+            "category": "Appetizers",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 12,
+            "name": "Bruschetta",
+            "price": 6,
+            "image": "./images/Bruschetta.png",
+            "category": "Appetizers",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 13,
+            "name": "Chicken Wings",
+            "price": 8,
+            "image": "./images/Chicken Wings.png",
+            "category": "Appetizers",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 14,
+            "name": "Onion Rings",
+            "price": 5,
+            "image": "./images/Onion Rings.png",
+            "category": "Appetizers",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 15,
+            "name": "French Fries",
+            "price": 4,
+            "image": "./images/French Fries.png",
+            "category": "Appetizers",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 16,
+            "name": "Soda",
+            "price": 2,
+            "image": "./images/Soda.png",
+            "category": "Drinks",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 17,
+            "name": "Iced Tea",
+            "price": 2,
+            "image": "./images/Iced Tea.png",
+            "category": "Drinks",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 18,
+            "name": "Lemonade",
+            "price": 2,
+            "image": "./images/Lemonade.png",
+            "category": "Drinks",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 19,
+            "name": "Milkshake",
+            "price": 4,
+            "image": "./images/Milkshake.png",
+            "category": "Drinks",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
+        },
+        {
+            "id": 20,
+            "name": "Smoothie",
+            "price": 5,
+            "image": "./images/Smoothie.png",
+            "category": "Drinks",
+            "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
         }
     ]
 }
