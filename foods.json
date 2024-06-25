@@ -12,7 +12,7 @@
             "id": 2,
             "name": "Pepperoni Pizza",
             "price": 12,
-            "image": "/images/Pepperoni Pizza.png",
+            "image": "https://raw.githubusercontent.com/MohamedKhalifa11/foods-api/main/images/Pepperoni20Pizza.png",
             "category": "Pizza",
             "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta ad et est, fugiat repudiandae neque illo delectus commodi magnam explicabo autem voluptates eaque velit vero facere mollitia. Placeat rem, molestiae error obcaecati enim doloribus impedit aliquam, maiores qui minus neque. "
         },
