@@ -4,7 +4,7 @@ This repository contains JSON files for food items and blog posts, along with as
 
 ## Usage
 
-Feel free to explore the JSON data and images for learning purposes or personal projects. If you find it useful, consider giving credit or linking back to this repository.
+**Fork it here on GitHub** and feel free to explore the JSON data and images for learning purposes or personal projects. If you find it useful, consider giving credit or linking back to this repository.
 
 ## License
 
